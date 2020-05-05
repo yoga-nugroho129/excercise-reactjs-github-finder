@@ -1,0 +1,17 @@
+.user-detail-card {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.user-detail-img {
+  width: 200px;
+}
+
+.more-detail {
+  display: inline-block;
+  padding: 10px;
+}
+
+.badge {
+  margin: 0px 5px;
+}
